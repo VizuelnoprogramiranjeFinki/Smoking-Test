@@ -22,6 +22,7 @@ class="anchor"></span></span>
 <span id="OLE_LINK1" class="anchor"><span id="OLE_LINK2"
 class="anchor"></span></span>
 
+#
 **2. Опис на решението на проблемот –**
 
 Прво ја „нацртав“ **првата форма**, во која имаше вовед во тестот, со

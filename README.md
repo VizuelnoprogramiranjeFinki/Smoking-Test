@@ -61,7 +61,7 @@ class="anchor"></span></span>**Опис на функцијата за наст�
 class="anchor"></span></span>private void button1\_Click(object sender,
 EventArgs e)
 
-```csharp
+```cs
 {
 
 Form3 forma3 = new Form3();

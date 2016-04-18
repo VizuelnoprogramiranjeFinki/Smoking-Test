@@ -111,8 +111,7 @@ forma3.Show();
 
 PrintScreen од почетниот изглед на апликацијата (првата форма).
 
-![](media/image1.png){width="6.268055555555556in"
-height="3.765277777777778in"}
+![Alt text](/PrintScreens/PrtScr_1.png)
 
 PrintScreen од изгледот на апликацијата доколку се притисне копчето за
 излез од апликацијата.

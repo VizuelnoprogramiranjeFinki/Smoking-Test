@@ -116,25 +116,22 @@ PrintScreen од почетниот изглед на апликацијата (
 PrintScreen од изгледот на апликацијата доколку се притисне копчето за
 излез од апликацијата.
 
-![](media/image2.png){width="6.268055555555556in" height="3.7625in"}
+![Alt text](/PrintScreens/PrtScr_2.png)
 
 PrintScreen од формата за внесување на возраст.
 
-![](media/image3.png){width="3.375in" height="1.8629035433070866in"}
+![Alt text](/PrintScreens/PrtScr_3.png)
 
 PrintScreen од ErrorProviderot во формата за внесување на возраст,
 доколку се внесе возраст помала од 18 години.
 
-![](media/image4.png){width="6.268055555555556in"
-height="1.3909722222222223in"}
+![Alt text](/PrintScreens/PrtScr_4.png)
 
 PrintScreen од формата со првото прашање (сите наредни 5 форми се со ист
 изглед).
 
-![](media/image5.png){width="6.15548009623797in"
-height="3.634961723534558in"}
+![Alt text](/PrintScreens/PrtScr_5.png)
 
 PrintScreen од последната форма која ги прикажува резултатите.
 
-![](media/image6.png){width="6.268055555555556in"
-height="3.5791666666666666in"}
+![Alt text](/PrintScreens/PrtScr_6.png)

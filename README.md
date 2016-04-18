@@ -59,11 +59,9 @@ class="anchor"></span></span>
 првото прашање), кое треба да води кон отворање на третата форма (со
 второто прашање):
 
-<span id="OLE_LINK3" class="anchor"><span id="OLE_LINK4"
-class="anchor"></span></span>private void button1\_Click(object sender,
-EventArgs e)
 
 ```cs
+private void button1_Click(object sender, EventArgs e)
 {
 	Form3 forma3 = new Form3();
 	if (prasanje.prasanje1==-1)

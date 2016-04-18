@@ -1,0 +1,17 @@
+D:\Faculty of Computer Science and Engineering\Семестар 4\Визуелно програмирање\Проект\Smoking Test\Smoking Test\bin\Debug\Smoking Test.exe.config
+D:\Faculty of Computer Science and Engineering\Семестар 4\Визуелно програмирање\Проект\Smoking Test\Smoking Test\bin\Debug\Smoking Test.exe
+D:\Faculty of Computer Science and Engineering\Семестар 4\Визуелно програмирање\Проект\Smoking Test\Smoking Test\bin\Debug\Smoking Test.pdb
+D:\Faculty of Computer Science and Engineering\Семестар 4\Визуелно програмирање\Проект\Smoking Test\Smoking Test\obj\Debug\Smoking Test.csprojResolveAssemblyReference.cache
+D:\Faculty of Computer Science and Engineering\Семестар 4\Визуелно програмирање\Проект\Smoking Test\Smoking Test\obj\Debug\Smoking_Test.Form1.resources
+D:\Faculty of Computer Science and Engineering\Семестар 4\Визуелно програмирање\Проект\Smoking Test\Smoking Test\obj\Debug\Smoking_Test.Properties.Resources.resources
+D:\Faculty of Computer Science and Engineering\Семестар 4\Визуелно програмирање\Проект\Smoking Test\Smoking Test\obj\Debug\Smoking Test.csproj.GenerateResource.Cache
+D:\Faculty of Computer Science and Engineering\Семестар 4\Визуелно програмирање\Проект\Smoking Test\Smoking Test\obj\Debug\Smoking Test.exe
+D:\Faculty of Computer Science and Engineering\Семестар 4\Визуелно програмирање\Проект\Smoking Test\Smoking Test\obj\Debug\Smoking Test.pdb
+D:\Faculty of Computer Science and Engineering\Семестар 4\Визуелно програмирање\Проект\Smoking Test\Smoking Test\obj\Debug\Smoking_Test.Form2.resources
+D:\Faculty of Computer Science and Engineering\Семестар 4\Визуелно програмирање\Проект\Smoking Test\Smoking Test\obj\Debug\Smoking_Test.Form8.resources
+D:\Faculty of Computer Science and Engineering\Семестар 4\Визуелно програмирање\Проект\Smoking Test\Smoking Test\obj\Debug\Smoking_Test.Form3.resources
+D:\Faculty of Computer Science and Engineering\Семестар 4\Визуелно програмирање\Проект\Smoking Test\Smoking Test\obj\Debug\Smoking_Test.Form4.resources
+D:\Faculty of Computer Science and Engineering\Семестар 4\Визуелно програмирање\Проект\Smoking Test\Smoking Test\obj\Debug\Smoking_Test.Form5.resources
+D:\Faculty of Computer Science and Engineering\Семестар 4\Визуелно програмирање\Проект\Smoking Test\Smoking Test\obj\Debug\Smoking_Test.Form6.resources
+D:\Faculty of Computer Science and Engineering\Семестар 4\Визуелно програмирање\Проект\Smoking Test\Smoking Test\obj\Debug\Smoking_Test.Form7.resources
+D:\Faculty of Computer Science and Engineering\Семестар 4\Визуелно програмирање\Проект\Smoking Test\Smoking Test\obj\Debug\Smoking_Test.Form9.resources
